@@ -1,0 +1,191 @@
+* {
+  margin: 0;
+}
+.head-1 hr {
+  margin-top: 10px;
+  border-color: gray;
+
+}
+.right1{
+  align-items: end;
+}
+.head-1 {
+  text-align: center;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  padding-top: 10px;
+  font-family: apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+
+}
+
+.container1{
+  background-color: black;
+  display: flex;
+  padding-bottom: 40px;
+ 
+}
+.papergrid2{
+  width: 130px;
+  margin-right: 20px;
+  margin-left: 10px;
+}
+.home1{
+  text-decoration: underline;
+  cursor: pointer;
+}
+.stick-head {
+  display: flex;
+  gap: 40px;
+  font-size: 18.5px;
+  font-family: apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  color: white;
+  list-style-type : none;
+  margin-top: 15px;
+  align-items: end;
+  cursor: pointer; 
+
+}
+
+.about2:hover {
+  text-decoration: underline;
+
+}
+.Catalogue1:hover{
+  text-decoration: underline;
+}
+.Track1:hover {
+  text-decoration: underline;
+}
+.bag1 {
+width: 50px;
+margin-left: -38px; 
+
+display: flex;
+align-self: flex-end;
+
+}
+.entho{
+  margin-top: 10px;
+}
+.account1 {
+  margin-left: 650px;
+}
+.images3{
+  display: flex;
+  gap: 40px;
+  margin-left: 80px;
+  margin-top: 10px;
+}
+.images3 img {
+  width: 390px;
+}
+.images4{
+  display: flex;
+  gap: 40px;
+  margin-left: 80px;
+  margin-top: 10px;
+}
+.images4 img{
+  width: 390px;
+}
+.images2{
+  display: flex;
+  gap: 40px;
+  margin-left: 80px;
+  margin-top: 50px;
+}
+.images2 img {
+  width: 390px; 
+}
+.author1{
+  margin-top: 80px;
+  display: flex;
+}
+.author1 img {
+  width: 400px;
+  margin-left: 80px;
+  
+}
+.info1 {
+  margin-left: 80px;
+  font-size: 28px;
+  margin-top: 65px;
+  font-family:  apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+}
+.info2 {
+  margin-left: 80px;
+  font-size:23.5px;
+  color: gray;
+  margin-top: 40px;
+  font-family:  apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+}
+.about-button {
+  width: 160px;
+  height: 60px;
+  margin-left: 80px;
+  font-family:  apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  font-size: 20px;
+  margin-top: 50px;
+  background-color: black;
+  color: white;
+  border: none;
+}
+.footer {
+  background-color: black;
+  margin-top: 90px;
+  padding-top: 45px;
+
+}
+.media-1 {
+  color: rgba(255, 255, 255, 0.683);
+  font-family: apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  text-align: center;
+  font-size: 20px;
+  padding-bottom:  50px;
+  
+}
+
+.conclution{
+  color: rgba(255, 255, 255, 0.607);
+  font-family: apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  padding-bottom: 40px;
+  font-size: 15px;
+  margin-left: 50px;
+}
+.media-info {
+ color: white;
+}
+.line {
+  margin-top: 55px;
+}
+.num1,
+.num2,
+.email1{
+  color: rgba(255, 255, 255, 0.683);
+  font-family: apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  text-align: center;
+  font-size: 20px;
+  
+}
+.num1:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+.num2:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+.email1:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+.last {
+  color: rgba(255, 255, 255, 0.607);
+  font-family: apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  font-size: 15px;
+  font-weight: 300;
+}     
+.last:hover {
+ cursor: pointer;
+ text-decoration: underline;
+}
